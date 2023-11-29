@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.made-by {
+  position: fixed;
+  bottom: 10px; /* Adjust this value to change vertical positioning */
+  right: 10px; /* Adjust this value to change horizontal positioning */
+  color: #333; /* Adjust color as needed */
+  font-size: 14px; /* Adjust font size as needed */
+  /* You can add more styles (font-family, padding, etc.) */
+}
